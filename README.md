@@ -1,8 +1,11 @@
 # Installation
 
 #Run
+
 `git clone git@github.com:wasqez/task.git project`
+
 #Install module 
+
 `git submodule update --init`
 #Install Drupal
 `composer install`
