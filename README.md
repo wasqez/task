@@ -52,4 +52,4 @@ Add Title and test math operation in Math field.
 Save 
 
 
-On Default Display of saved Article do mouse hover math label to se result.
+On Default Display of saved Article do mouse hover math label to se the results.
