@@ -32,6 +32,11 @@ Go to Manage Display tab.
 *Drag to re-order "Math" field on top of the row. 
 *Pres Save
 
-Add new content Article and input math operation in Math field.
+Add new content Article 
+Add Title and test math operation in Math field.
 (+,-,*,/)
+Save 
+
+On Default Display do mouse hover to se result.
+#######
 
