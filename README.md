@@ -22,6 +22,7 @@ Need to select root folder: project/web
 ## Config and usage
 
 Go to Drupal Administration Extend and enable Simple lexer parser module. 
+
 Select Content types Article fields page.
 
 *admin/structure/types/manage/article/fields*
@@ -31,6 +32,7 @@ Select Content types Article fields page.
 *Field name: Math*
 
 Go to Manage Display tab.
+
 *Select from "FORMAT" drop down menu "Simple lexer parser formatter"
 
 *Drag to re-order "Math" field on top of the row. 
