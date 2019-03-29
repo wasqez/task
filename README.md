@@ -32,6 +32,7 @@ Select Content types Article fields page.
 *Field name: Math*
 
 
+
 Go to Manage Display tab.
 
 *Select from "FORMAT" drop down menu "Simple lexer parser formatter"
@@ -41,9 +42,14 @@ Go to Manage Display tab.
 *Pres Save
 
 
+
 Add new content Article 
+
 Add Title and test math operation in Math field.
+
 (+,-,*,/)
+
 Save 
+
 
 On Default Display of saved Article do mouse hover math label to se result.
