@@ -23,9 +23,9 @@ Need to select root folder: project/web
 
 Go to Drupal Administration and select Content types Article fields page.
 
-*admin/structure/types/manage/article/fields 
-*add field type as text (formatted) 
-*Field name: Math
+*admin/structure/types/manage/article/fields*
+*add field type as text (formatted)*
+*Field name: Math*
 
 Go to Manage Display tab.
 *Select from "FORMAT" drop down menu "Simple lexer parser formatter"
