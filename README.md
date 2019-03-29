@@ -31,6 +31,7 @@ Select Content types Article fields page.
 
 *Field name: Math*
 
+
 Go to Manage Display tab.
 
 *Select from "FORMAT" drop down menu "Simple lexer parser formatter"
@@ -38,6 +39,7 @@ Go to Manage Display tab.
 *Drag to re-order "Math" field on top of the row. 
 
 *Pres Save
+
 
 Add new content Article 
 Add Title and test math operation in Math field.
