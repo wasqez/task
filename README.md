@@ -19,7 +19,7 @@ Need to select root folder: project/web
 
 > Note: Run Drupal installation at standard profile.
 
-## Config and usage
+## Config
 
 Go to Drupal Administration Extend and enable Simple lexer parser module. 
 
@@ -41,7 +41,7 @@ Go to Manage Display tab.
 
 *Pres Save
 
-
+## Usage
 
 Add new content Article 
 
