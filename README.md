@@ -3,24 +3,24 @@
 #Run
 
 `git clone git@github.com:wasqez/task.git project`
-*
+
 #Install module 
-*
+
 `git submodule update --init`
 
 #Install Drupal
 
 `composer install`
-*
+
 ## Run Drupal
-*
+
 Run Drupal from Acquia DevDesktop.
 Need to select root folder: project/web
 
 > Note: Run Drupal installation at standard profile.
-*
+
 ## Config
-*
+
 Go to Drupal Administration Extend and enable Simple lexer parser module. 
 
 Select Content types Article fields page:
@@ -38,9 +38,9 @@ Go to Manage Display tab:
 *Drag to re-order "Math" field on top of the row.*
 
 *Pres Save*
-*
+
 ## Usage
-*
+
 Add new content Article 
 
 Add Title and test math operation in Math field.
