@@ -21,7 +21,8 @@ Need to select root folder: project/web
 
 ## Config and usage
 
-Go to Drupal Administration and select Content types Article fields page.
+Go to Drupal Administration Extend and enable Simple lexer parser module. 
+Select Content types Article fields page.
 
 *admin/structure/types/manage/article/fields*
 
@@ -41,6 +42,4 @@ Add Title and test math operation in Math field.
 (+,-,*,/)
 Save 
 
-On Default Display do mouse hover to se result.
-
-
+On Default Display of saved Article do mouse hover math label to se result.
