@@ -37,7 +37,7 @@ Go to Manage Display tab:
 
 *Drag to re-order "Math" field on top of the row.*
 
-*Pres Save*
+*Press Save*
 
 ## Usage
 
